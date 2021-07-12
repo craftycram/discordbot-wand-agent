@@ -35,10 +35,10 @@ If you encounter any issues feel free to join [our discord server](https://disco
 - Unable to login to the dashboard using safari
 
 
-## video
+## Video
 
 [![demo video](https://img.youtube.com/vi/Fh0Q7eCA-5I/0.jpg)](https://www.youtube.com/watch?v=Fh0Q7eCA-5I)
 
-## one pager
+## One Pager
 
 you can read the one pager right [here](res/onepager_discordwand.pdf)
