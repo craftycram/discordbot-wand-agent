@@ -1,7 +1,8 @@
 <p align="center">
   <img src="res/banner.png">
-  <a href="https://GitHub.com/craftycram/discordbot-wand-agent/releases/" target="_blank"><img src="https://img.shields.io/github/release/craftycram/discordbot-wand-agent.svg"></a>
+  <a href="https://GitHub.com/craftycram/discordbot-wand-agent/releases/" target="_blank"><img src="https://badge.fury.io/gh/craftycram%2Fdiscordbot-wand-agent.svg"></a>
   <a href="https://GitHub.com/craftycram/discordbot-wand-agent/issues/" target="_blank"><img src="https://img.shields.io/github/issues/craftycram/discordbot-wand-agent.svg"></a>
+  <a href="https://discordbot.craftycram.net/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/https/discordbot.craftycram.net.svg"></a>
   <a href="https://discord.gg/WfXSUSw" target="_blank"><img src="https://img.shields.io/discord/757335944545435798.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2"></a>
 </p>
 
