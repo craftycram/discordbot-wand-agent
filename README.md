@@ -29,11 +29,24 @@ To use it you will need the agent, an Arduino Nano BLE Sense and the bot on your
 - Open the bots webdashboard and login with your discord account
 - Execute a spell and enjoy the sounds
 
+## Usage
+Just stick your Arduino to your wand with its top side pointing to your left. It should be located near the end on the grip side of your wand, being covered by your hand when holding the wand.
+
+There are currently four spells available:
+- alohomora
+- wingardium leviosa
+- meteolojinx
+- finite incantatem
+
+You can take a look at a [spell chart](res/spell-chart.jpg) to see how to perform them.
+
 ## Troubleshooting
 If you encounter any issues feel free to join [our discord server](https://discord.gg/WfXSUSw) or open a new issue in this repository
 
 ## Known-Issues
-- Unable to login to the dashboard using safari
+- gestures need to be repeated multiple times to get recognized
+- gestures won't be recognized if not performed the right way
+- dashboard signing doesn't work using safari
 
 
 ## Video
